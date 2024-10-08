@@ -1,4 +1,4 @@
 /target
 *.json
-/cient/node_modules
+/client/node_modules
 /dist
